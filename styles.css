@@ -1,0 +1,22 @@
+h1  {
+    font-family: Arial, Helvetica, sans-serif
+}
+h2 {font-family:Arial, Helvetica, sans-serif}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table,th,td {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+         table, th, td {
+  border: 1px solid black;
+} 
+th:nth-child(even),td:nth-child(even) {
+  background-color: #D6EEEE;
+}
+ul, dd, dt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color:antiquewhite;
+background-repeat: no-repeat;
+background-size: cover;
+}
